@@ -8,7 +8,7 @@ I'm a software engineer, specializing in backend development and distributed sys
  <a href="https://twitter.com/luke_germano" alt="lucas santos twitter">
    <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
  </a>
- <a href="https://lucassan.github.io" alt="lucas santos blog">
+ <a href="https://lucasgermano.substack.com" alt="lucas santos blog">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=%23F58025&logo=rss&logoColor=FFFFFF&label=" />
  </a>
  <a href="https://github.com/LucasSan" alt="lucas santos github">
